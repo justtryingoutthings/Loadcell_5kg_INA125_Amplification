@@ -9,7 +9,7 @@ Since i shifted my reference to 2.5v that means 0-5kgs of weight (in mentioned d
 To set the Gain as per our requirement , we need to run multiple trials with different gain resistors (Rg) ; Gain = 4 + 60,000 Ω / Rg
 
 #These are the values recorded by multimeter by carrying out the trials in my own setup.
-#When read using arduino, there exists a deviation of about 0.1 - 0.2 volts 
+#When read using Arduino, there may exist a deviation of about 0.1 - 0.2 volts 
 
 1. Rg = 660 Ω
 0g – 2.5v
@@ -32,9 +32,10 @@ scaling factor : 0.1 v/kg
 1kg – 2.74 
 scaling factor : 0.26 v/kg
 
-#I've desgined my LabView program as per my scaling factor and my offset voltage. 
+#I've designed my LabView program as per my scaling factor and offset voltage.
 
 Ritisha Tripathy, Nit Durgapur.
 
 
+#I've desgined my LabView program as per my scaling factor and my offset voltage. 
 Ritisha Tripathy, Nit Durgapur.
