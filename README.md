@@ -25,8 +25,6 @@ scaling factor : change of voltage / kg = 0.04 v/kg
 1kg – 2.60
 scaling factor : 0.1 v/kg
 
-Ritisha Tripathy, Nit Durgapur.
-
 3. Rg = 220 Ω
 0g – 2.48 
 500g – 2.61
@@ -36,4 +34,7 @@ scaling factor : 0.26 v/kg
 
 #I've desgined my LabView program as per my scaling factor and my offset voltage. 
 
+Ritisha Tripathy, Nit Durgapur.
 
+
+Ritisha Tripathy, Nit Durgapur.
