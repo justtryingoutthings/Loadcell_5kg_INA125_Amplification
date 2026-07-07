@@ -34,5 +34,5 @@ scaling factor : 0.26 v/kg
 
 #I've designed my LabView program as per my scaling factor and offset voltage.
 
-Ritisha Tripathy, Nit Durgapur.
+Ritisha Tripathy.
 
